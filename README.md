@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/foram-amipara/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/foram-amipara/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
