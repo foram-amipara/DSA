@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
