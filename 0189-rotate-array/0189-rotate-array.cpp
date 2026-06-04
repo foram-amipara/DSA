@@ -8,7 +8,6 @@ public:
         int n = nums.size();
         
         if (k == 0) return;
-        
         vector<int> temp(n);
         int i = 0; 
         
