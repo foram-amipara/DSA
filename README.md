@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/foram-amipara/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
