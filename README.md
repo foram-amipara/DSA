@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/foram-amipara/DSA/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/foram-amipara/DSA/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foram-amipara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
@@ -56,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
