@@ -6,7 +6,7 @@ public:
         if (k == 0) return;
         
         vector<int> temp(n);
-        int i = 0; 
+        
         
         for (int j = n - 1; j >= 0; j--) {
             int num = nums[j]; 
