@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/foram-amipara/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/foram-amipara/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
