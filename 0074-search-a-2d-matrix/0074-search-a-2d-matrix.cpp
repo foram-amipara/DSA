@@ -5,7 +5,9 @@ public:
         int n = matrix[0].size();
         int i=0;
         int j=n-1;
-        if (matrix.empty() || matrix[0].empty()) {return false;}
+        if (matrix.empty() || matrix[0].empty()){
+            return false;
+        }
         while(i < m && j >= 0){
             if(matrix[i][j]==target){
                 return true;
@@ -13,6 +15,4 @@ public:
                 j--;
             }else{i++;}
         }
-return false;
-    }
-};
+return false;}};
