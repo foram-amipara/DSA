@@ -1,28 +1,35 @@
 class Solution {
 public:
+    int parseDigits(const string& s, int i, int sign, long long currentAns) {
+        if (i >= s.length() || s[i] < '0' || s[i] > '9') {
+            return currentAns * sign;
+        }
+
+        int digit = s[i] - '0';
+        currentAns = currentAns * 10 + digit;
+
+        if (sign == 1 && currentAns > INT_MAX) return INT_MAX;
+        if (sign == -1 && -currentAns < INT_MIN) return INT_MIN;
+
+        return parseDigits(s, i + 1, sign, currentAns);
+    }
+
+    int processState(const string& s, int i, int sign, bool processedSign) {
+        if (i >= s.length()) return 0;
+
+        if (s[i] == ' ' && !processedSign) {
+            return processState(s, i + 1, sign, processedSign);
+        }
+
+        if ((s[i] == '+' || s[i] == '-') && !processedSign) {
+            int newSign = (s[i] == '-') ? -1 : 1;
+            return processState(s, i + 1, newSign, true);
+        }
+
+        return parseDigits(s, i, sign, 0);
+    }
+
     int myAtoi(string s) {
-        int i=0;
-        int n=s.length();
-        int ans=0;
-        int sign=1;
-
-        while(i<n && s[i]==' '){
-            i++;
-        }
-
-        if(i<n && (s[i]=='+' || s[i]=='-' )){
-            sign = (s[i]=='-')?-1:1;
-            i++;
-        }
-
-        while(i<n && s[i]>='0' && s[i]<='9'){
-            int digit =s[i]-'0';
-            if(ans>INT_MAX/10 || (ans == INT_MAX/10 && digit>INT_MAX%10)){
-                return (sign == 1)? INT_MAX:INT_MIN;
-            }
-            ans=ans*10+digit;
-            i++;
-        }
-        return ans*sign;
+        return processState(s, 0, 1, false);
     }
 };
