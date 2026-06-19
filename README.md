@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/foram-amipara/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1572-matrix-diagonal-sum](https://github.com/foram-amipara/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/foram-amipara/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/foram-amipara/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/foram-amipara/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -205,4 +207,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/foram-amipara/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
