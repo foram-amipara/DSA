@@ -6,7 +6,7 @@ public:
         
         if (nLen > hLen) return -1;
         
-        for (int i = 0; i <= hLen - nLen; i++) {
+        for (int i = 0; i < hLen; i++) {
             if (haystack.substr(i, nLen) == needle) {
                 return i;
             }
