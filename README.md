@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/foram-amipara/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1572-matrix-diagonal-sum](https://github.com/foram-amipara/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/foram-amipara/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/foram-amipara/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/foram-amipara/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/foram-amipara/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/foram-amipara/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/foram-amipara/DSA/tree/master/1922-count-good-numbers) |
 ## Dynamic Programming
@@ -224,10 +227,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/foram-amipara/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/foram-amipara/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/foram-amipara/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Backtracking
 |  |
 | ------- |
