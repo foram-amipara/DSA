@@ -9,7 +9,6 @@ public:
             if (nums[right] == 0) {
                 count0++;
             }
-            
             while (count0 > k) {
                 if (nums[left] == 0) {
                     count0--;
