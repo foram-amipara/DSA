@@ -15,7 +15,6 @@ public:
         }
         return count;
     }
-
     int numSubarraysWithSum(vector<int>& nums, int goal) {
         return atMost(nums, goal) - atMost(nums, goal - 1);
     }
