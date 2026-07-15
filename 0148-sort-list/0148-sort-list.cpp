@@ -1,14 +1,4 @@
-/**
- * Definition for singly-linked list.
- * struct ListNode {
- *     int val;
- *     ListNode *next;
- *     ListNode() : val(0), next(nullptr) {}
- *     ListNode(int x) : val(x), next(nullptr) {}
- *     ListNode(int x, ListNode *next) : val(x), next(next) {}
- * };
- */
- class Solution {
+class Solution {
 public:
     ListNode* sortList(ListNode* head) {
         if (head == NULL || head->next == NULL) {
@@ -32,21 +22,21 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        
+
         if (prev != NULL) {
             prev->next = NULL;
         }
-        
+
         return slow;
     }
 
-    ListNode* merge(ListNode *left, ListNode* right) {
-        ListNode dummy(0);
-        ListNode *tail = &dummy;
-        
+    ListNode* merge(ListNode* left, ListNode* right) {
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
+
         ListNode *i = left;
         ListNode *j = right;
-        
+
         while (i != NULL && j != NULL) {
             if (i->val <= j->val) {
                 tail->next = i;
@@ -57,13 +47,16 @@ public:
             }
             tail = tail->next;
         }
-        
+
         if (i != NULL) {
             tail->next = i;
         } else {
             tail->next = j;
         }
-        
-        return dummy.next;
+
+        ListNode* result = dummy->next;
+        delete dummy;
+
+        return result;
     }
 };
