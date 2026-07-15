@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/foram-amipara/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/foram-amipara/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/foram-amipara/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/foram-amipara/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/foram-amipara/DSA/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/foram-amipara/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/foram-amipara/DSA/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/foram-amipara/DSA/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/foram-amipara/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/foram-amipara/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/foram-amipara/DSA/tree/master/0876-middle-of-the-linked-list) |
