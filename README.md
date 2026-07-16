@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
+| [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/foram-amipara/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Array
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/foram-amipara/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/foram-amipara/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/foram-amipara/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/foram-amipara/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/foram-amipara/DSA/tree/master/1922-count-good-numbers) |
 ## Memoization
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/foram-amipara/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/foram-amipara/DSA/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/foram-amipara/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/foram-amipara/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Merge Sort
