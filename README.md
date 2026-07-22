@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/foram-amipara/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/foram-amipara/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/foram-amipara/DSA/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/foram-amipara/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
