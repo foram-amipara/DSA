@@ -1,57 +1,44 @@
 class Solution {
 public:
     int calculate(string s) {
-        stack<long long> n;
-        stack<char> c;
+        stack<long long> st;
+        long long ans = 0;
+        long long num = 0;
+        long long sign = 1;
 
-        for (int i = 0; i < s.length(); i++) {
-            if (s[i] == ' ') continue;
+        for (char c : s) {
+            if (isdigit(c)) {
+                num = num * 10 + (c - '0');
+            }
+            else if (c == '+') {
+                ans += sign * num;
+                num = 0;
+                sign = 1;
+            }
+            else if (c == '-') {
+                ans += sign * num;
+                num = 0;
+                sign = -1;
+            }
+            else if (c == '(') {
+                st.push(ans);
+                st.push(sign);
+                ans = 0;
+                sign = 1;
+            }
+            else if (c == ')') {
+                ans += sign * num;
+                num = 0;
 
-            if (s[i] == '+' || s[i] == '-') {
-                int j = i - 1;
-                while (j >= 0 && s[j] == ' ') j--;
-                if (j < 0 || s[j] == '(') {
-                    n.push(0);
-                }
+                ans *= st.top();
+                st.pop();
 
-                while (!c.empty() && c.top() != '(' && n.size() >= 2) {
-                    long long a = n.top(); n.pop();
-                    long long b = n.top(); n.pop();
-                    long long ans = (c.top() == '+') ? (b + a) : (b - a);
-                    c.pop();
-                    n.push(ans);
-                }
-                c.push(s[i]);
-            } else if (s[i] == '(') {
-                c.push(s[i]);
-            } else if (s[i] == ')') {
-                while (!c.empty() && c.top() != '(' && n.size() >= 2) {
-                    long long a = n.top(); n.pop();
-                    long long b = n.top(); n.pop();
-                    long long ans = (c.top() == '+') ? (b + a) : (b - a);
-                    c.pop();
-                    n.push(ans);
-                }
-                if (!c.empty()) c.pop();
-            } else if (isdigit(s[i])) {
-                long long num = 0;
-                while (i < s.length() && isdigit(s[i])) {
-                    num = num * 10 + (s[i] - '0');
-                    i++;
-                }
-                i--;
-                n.push(num);
+                ans += st.top();
+                st.pop();
             }
         }
 
-        while (!c.empty() && n.size() >= 2) {
-            long long a = n.top(); n.pop();
-            long long b = n.top(); n.pop();
-            long long ans = (c.top() == '+') ? (b + a) : (b - a);
-            c.pop();
-            n.push(ans);
-        }
-
-        return n.empty() ? 0 : (int)n.top();
+        ans += sign * num;
+        return (int)ans;
     }
 };
