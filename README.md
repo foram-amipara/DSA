@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/foram-amipara/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foram-amipara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/foram-amipara/DSA/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/foram-amipara/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/foram-amipara/DSA/tree/master/0162-find-peak-element) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/foram-amipara/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
