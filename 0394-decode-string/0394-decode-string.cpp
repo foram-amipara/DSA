@@ -2,7 +2,6 @@ class Solution {
 public:
     string decodeString(string s) {
         stack<char> st;
-        stack<char> rev;
         string ans="";
         for(int i=0;i<s.length();i++){
             char curr=s[i];
@@ -11,13 +10,9 @@ public:
                 string str="";
                 int num;
                 while(!st.empty()&&st.top()!='['){
-                    rev.push(st.top());
+                    str=st.top()+str;
                     st.pop();
                     
-                }
-                while(!rev.empty()){
-                    str+=rev.top();
-                    rev.pop();
                 }
                 st.pop();
                 string numStr = "";
@@ -38,13 +33,10 @@ public:
         }
         
         while(!st.empty()){
-            rev.push(st.top());
+            ans=st.top()+ans;
             st.pop();
         }
-        while(!rev.empty()){
-            ans+=rev.top();
-            rev.pop();
-        }
+        
         
         
         return ans;
