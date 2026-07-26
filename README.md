@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/foram-amipara/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/foram-amipara/DSA/tree/master/1922-count-good-numbers) |
+| [2469-convert-the-temperature](https://github.com/foram-amipara/DSA/tree/master/2469-convert-the-temperature) |
 ## Dynamic Programming
 |  |
 | ------- |
