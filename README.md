@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/foram-amipara/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/foram-amipara/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/foram-amipara/DSA/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foram-amipara/DSA/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foram-amipara/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/foram-amipara/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/foram-amipara/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/foram-amipara/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/foram-amipara/DSA/tree/master/0875-koko-eating-bananas) |
 | [0930-binary-subarrays-with-sum](https://github.com/foram-amipara/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/foram-amipara/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/foram-amipara/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
