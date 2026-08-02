@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/foram-amipara/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
+| [0216-combination-sum-iii](https://github.com/foram-amipara/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/foram-amipara/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/foram-amipara/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/foram-amipara/DSA/tree/master/0047-permutations-ii) |
+| [0216-combination-sum-iii](https://github.com/foram-amipara/DSA/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
