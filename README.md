@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/foram-amipara/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/foram-amipara/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/foram-amipara/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/foram-amipara/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/foram-amipara/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foram-amipara/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/foram-amipara/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/foram-amipara/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/foram-amipara/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/foram-amipara/DSA/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/foram-amipara/DSA/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/foram-amipara/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/foram-amipara/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/foram-amipara/DSA/tree/master/0216-combination-sum-iii) |
 ## Linked List
@@ -384,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/foram-amipara/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/foram-amipara/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
