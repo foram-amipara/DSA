@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/foram-amipara/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foram-amipara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/foram-amipara/DSA/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/foram-amipara/DSA/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
 | [0907-sum-of-subarray-minimums](https://github.com/foram-amipara/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/foram-amipara/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/foram-amipara/DSA/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/foram-amipara/DSA/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
