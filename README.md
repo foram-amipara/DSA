@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/foram-amipara/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/foram-amipara/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/foram-amipara/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/foram-amipara/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/foram-amipara/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/foram-amipara/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/foram-amipara/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/foram-amipara/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foram-amipara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/foram-amipara/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/foram-amipara/DSA/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/foram-amipara/DSA/tree/master/0678-valid-parenthesis-string) |
