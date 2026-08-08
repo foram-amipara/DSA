@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/foram-amipara/DSA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/foram-amipara/DSA/tree/master/0496-next-greater-element-i) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/foram-amipara/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/foram-amipara/DSA/tree/master/0875-koko-eating-bananas) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/foram-amipara/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/foram-amipara/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -346,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/foram-amipara/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/foram-amipara/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
 |  |
@@ -446,4 +450,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/foram-amipara/DSA/tree/master/0678-valid-parenthesis-string) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
