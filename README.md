@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/foram-amipara/DSA/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/foram-amipara/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/foram-amipara/DSA/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/foram-amipara/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/foram-amipara/DSA/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/foram-amipara/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/foram-amipara/DSA/tree/master/0328-odd-even-linked-list) |
+| [0641-design-circular-deque](https://github.com/foram-amipara/DSA/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/foram-amipara/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/foram-amipara/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Merge Sort
@@ -441,11 +443,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/foram-amipara/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/foram-amipara/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/foram-amipara/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/foram-amipara/DSA/tree/master/0641-design-circular-deque) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/foram-amipara/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/foram-amipara/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0641-design-circular-deque](https://github.com/foram-amipara/DSA/tree/master/0641-design-circular-deque) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/foram-amipara/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
