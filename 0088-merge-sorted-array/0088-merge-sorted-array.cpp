@@ -15,9 +15,8 @@ public:
             merge--;
         }
         while(st2 >= 0) {
-            nums1[merge] = nums2[st2];
-            st2--;
-            merge--;
+            nums1[merge--] = nums2[st2--];
         }
+
     }
 };
