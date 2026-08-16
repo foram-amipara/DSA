@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/foram-amipara/DSA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/foram-amipara/DSA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/foram-amipara/DSA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/foram-amipara/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/foram-amipara/DSA/tree/master/0131-palindrome-partitioning) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/foram-amipara/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/foram-amipara/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/foram-amipara/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/foram-amipara/DSA/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/foram-amipara/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/foram-amipara/DSA/tree/master/0189-rotate-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/foram-amipara/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/foram-amipara/DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/foram-amipara/DSA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/foram-amipara/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/foram-amipara/DSA/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/foram-amipara/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/foram-amipara/DSA/tree/master/0136-single-number) |
