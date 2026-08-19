@@ -13,15 +13,36 @@ class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int> ans;
-        inOrder(root,ans);
+        stack<TreeNode*> s;
+        TreeNode *curr=root;
+        while(!s.empty() || curr!=NULL){
+            while(curr!=NULL){
+                s.push(curr);
+                curr=curr->left;
+            }
+            curr=s.top();
+            s.pop();
+            ans.push_back(curr->val);
+            curr=curr->right;
+            
+        }
         return ans;
     }
-    void inOrder(TreeNode *root,vector<int> &ans){
-        if(root==NULL){
-            return;
-        }
-        inOrder(root->left,ans);
-        ans.push_back(root->val);
-        inOrder(root->right,ans);
-    }
 };
+
+
+
+// vector<int> inorderTraversal(TreeNode* root) {
+//         vector<int> ans;
+//         inOrder(root,ans);
+//         return ans;
+//     }
+//     void inOrder(TreeNode *root,vector<int> &ans){
+//         if(root==NULL){
+//             return;
+//         }
+//         inOrder(root->left,ans);
+//         ans.push_back(root->val);
+//         inOrder(root->right,ans);
+//     }
+//}
