@@ -26,7 +26,6 @@ public:
         int rightMax = max(0, right);
 
         int currSum = root->val + leftMax + rightMax;
-
         ans = max(ans, currSum);
         return root->val + max(leftMax, rightMax);
     }
