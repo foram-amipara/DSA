@@ -23,6 +23,7 @@ public:
         int leftHt=height(root->left);
         int rightHt=height(root->right);
         diameter=max(diameter,leftHt+rightHt);
+
         return max(leftHt,rightHt)+1;
     }
 };
