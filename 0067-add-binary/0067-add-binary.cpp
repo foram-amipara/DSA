@@ -5,11 +5,11 @@ public:
         int j = b.length() - 1;
         string ans = "";
         int carry = 0;
-        
+    
         while(i >= 0 || j >= 0 || carry == 1) {
             int sum = carry;
             if(i >= 0) {
-                sum += a[i] - '0'; // '0'-'0' = 0, '1'-'0' = 1
+                sum += a[i] - '0';
                 i--;
             }
             if(j >= 0) {
