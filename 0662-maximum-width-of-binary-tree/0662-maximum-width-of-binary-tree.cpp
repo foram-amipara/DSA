@@ -12,7 +12,7 @@
 class Solution {
 public:
     int widthOfBinaryTree(TreeNode* root) {
-        if (!root) return 0;
+        if (root==NULL) return 0;
         
         long long maxWidth = 0;
         queue<pair<TreeNode*, unsigned long long>> q;
