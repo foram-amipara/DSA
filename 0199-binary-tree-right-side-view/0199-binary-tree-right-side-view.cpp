@@ -16,29 +16,30 @@ public:
         vector<int> ans;
         if (root == NULL) return ans;
 
-        map<int, int> m;
+        map<int, int> m; 
         queue<pair<TreeNode*, int>> q;
 
         q.push(make_pair(root, 0));
-        while (!q.empty()) {
+        
+        while(!q.empty()){
             pair<TreeNode*, int> curr = q.front();
             q.pop();
-            TreeNode* currNode = curr.first;
-            int currHt = curr.second;
+            
+            TreeNode* node = curr.first;
+            int level = curr.second;
 
-            if (m.count(currHt) == 0) {
-                m[currHt] = currNode->val;
-            }
-
-            if (currNode->right != NULL) {
-                q.push(make_pair(currNode->right, currHt + 1));
-            }
-            if (currNode->left != NULL) {
-                q.push(make_pair(currNode->left, currHt + 1));
+            if(m.count(level) == 0){
+                m[level] = node->val;
             }
             
+            if (node->right != NULL) {
+                q.push(make_pair(node->right, level + 1));
+            }
+            if (node->left != NULL) {
+                q.push(make_pair(node->left, level + 1));
+            }
         }
-
+        
         for (auto it : m) {
             ans.push_back(it.second);
         }
