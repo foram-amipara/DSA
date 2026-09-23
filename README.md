@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/foram-amipara/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/foram-amipara/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/foram-amipara/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/foram-amipara/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/foram-amipara/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/foram-amipara/DSA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/foram-amipara/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/foram-amipara/DSA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/foram-amipara/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/foram-amipara/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/foram-amipara/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/foram-amipara/DSA/tree/master/0622-design-circular-queue) |
@@ -658,4 +661,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/foram-amipara/DSA/tree/master/0572-subtree-of-another-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/foram-amipara/DSA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
