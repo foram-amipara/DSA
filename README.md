@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/foram-amipara/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/foram-amipara/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/foram-amipara/DSA/tree/master/0485-max-consecutive-ones) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/foram-amipara/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/foram-amipara/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/foram-amipara/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/foram-amipara/DSA/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/foram-amipara/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/foram-amipara/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -378,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/foram-amipara/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/foram-amipara/DSA/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -411,10 +416,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -679,4 +686,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/foram-amipara/DSA/tree/master/0139-word-break) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/foram-amipara/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
