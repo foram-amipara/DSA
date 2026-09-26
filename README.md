@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/foram-amipara/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/foram-amipara/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/foram-amipara/DSA/tree/master/0641-design-circular-deque) |
+| [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0682-baseball-game](https://github.com/foram-amipara/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/foram-amipara/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/foram-amipara/DSA/tree/master/0735-asteroid-collision) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/foram-amipara/DSA/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/foram-amipara/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/foram-amipara/DSA/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/foram-amipara/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/foram-amipara/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/foram-amipara/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/foram-amipara/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/foram-amipara/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0912-sort-an-array](https://github.com/foram-amipara/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/foram-amipara/DSA/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/foram-amipara/DSA/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/foram-amipara/DSA/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/foram-amipara/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/foram-amipara/DSA/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/foram-amipara/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -709,4 +713,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/foram-amipara/DSA/tree/master/0912-sort-an-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
