@@ -570,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/foram-amipara/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/foram-amipara/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/foram-amipara/DSA/tree/master/1020-number-of-enclaves) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/foram-amipara/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/foram-amipara/DSA/tree/master/0733-flood-fill) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/foram-amipara/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/foram-amipara/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foram-amipara/DSA/tree/master/1020-number-of-enclaves) |
@@ -781,10 +783,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/foram-amipara/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/foram-amipara/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/foram-amipara/DSA/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -801,4 +805,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/foram-amipara/DSA/tree/master/0069-sqrtx) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
