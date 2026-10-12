@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/foram-amipara/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foram-amipara/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/foram-amipara/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/foram-amipara/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/foram-amipara/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/foram-amipara/DSA/tree/master/0143-reorder-list) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/foram-amipara/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foram-amipara/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/foram-amipara/DSA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/foram-amipara/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/foram-amipara/DSA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/foram-amipara/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/foram-amipara/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/foram-amipara/DSA/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/foram-amipara/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/foram-amipara/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/foram-amipara/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foram-amipara/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/foram-amipara/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/foram-amipara/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/foram-amipara/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/foram-amipara/DSA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/foram-amipara/DSA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/foram-amipara/DSA/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/foram-amipara/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/foram-amipara/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -391,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/foram-amipara/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/foram-amipara/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/foram-amipara/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/foram-amipara/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/foram-amipara/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/foram-amipara/DSA/tree/master/0503-next-greater-element-ii) |
