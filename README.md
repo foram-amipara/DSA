@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/foram-amipara/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/foram-amipara/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/foram-amipara/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/foram-amipara/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/foram-amipara/DSA/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/foram-amipara/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1901-find-a-peak-element-ii](https://github.com/foram-amipara/DSA/tree/master/1901-find-a-peak-element-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1248-count-number-of-nice-subarrays](https://github.com/foram-amipara/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/foram-amipara/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/foram-amipara/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/foram-amipara/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Binary Search
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/foram-amipara/DSA/tree/master/0846-hand-of-straights) |
 | [0912-sort-an-array](https://github.com/foram-amipara/DSA/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/foram-amipara/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1657-determine-if-two-strings-are-close](https://github.com/foram-amipara/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Matrix
