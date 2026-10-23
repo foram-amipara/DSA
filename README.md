@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/foram-amipara/DSA/tree/master/0542-01-matrix) |
 | [0646-maximum-length-of-pair-chain](https://github.com/foram-amipara/DSA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/foram-amipara/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/foram-amipara/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0907-sum-of-subarray-minimums](https://github.com/foram-amipara/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/foram-amipara/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Two Pointers
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/foram-amipara/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/foram-amipara/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/foram-amipara/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/foram-amipara/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/foram-amipara/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/foram-amipara/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Heap (Priority Queue)
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-minimum-distance-between-bst-nodes](https://github.com/foram-amipara/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/foram-amipara/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/foram-amipara/DSA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/foram-amipara/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/foram-amipara/DSA/tree/master/1020-number-of-enclaves) |
@@ -834,6 +837,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/foram-amipara/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/foram-amipara/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/foram-amipara/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1791-find-center-of-star-graph](https://github.com/foram-amipara/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
@@ -870,4 +874,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/foram-amipara/DSA/tree/master/1631-path-with-minimum-effort) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/foram-amipara/DSA/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
