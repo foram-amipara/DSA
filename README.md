@@ -835,6 +835,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/foram-amipara/DSA/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/foram-amipara/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/foram-amipara/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1791-find-center-of-star-graph](https://github.com/foram-amipara/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
