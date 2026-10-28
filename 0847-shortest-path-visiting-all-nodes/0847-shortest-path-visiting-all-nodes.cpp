@@ -2,41 +2,34 @@ class Solution {
 public:
     int shortestPathLength(vector<vector<int>>& graph) {
         int n = graph.size();
-        queue<pair<int, int>> q;
-        vector<vector<bool>> vis(n, vector<bool>(1 << n, false));
+        int targetMask = (1 << n) - 1;
+        queue<vector<int>> q;
+        vector<vector<bool>> visited(n, vector<bool>(1 << n, false));
 
         for (int i = 0; i < n; i++) {
-            int mask = (1 << i);
-            q.push({i, mask});
-            vis[i][mask] = true;
+            q.push({i, 1 << i, 0});
+            visited[i][1 << i] = true;
         }
-
-        int steps = 0;
-        int finalMask = (1 << n) - 1;
 
         while (!q.empty()) {
-            int size = q.size();
+            auto curr = q.front();
+            q.pop();
 
-            while (size--) {
-                auto [node, mask] = q.front();
-                q.pop();
+            int node = curr[0];
+            int mask = curr[1];
+            int dist = curr[2];
 
-                if (mask == finalMask)
-                    return steps;
+            if (mask == targetMask) return dist;
 
-                for (int nei : graph[node]) {
-                    int newMask = mask | (1 << nei);
-
-                    if (!vis[nei][newMask]) {
-                        vis[nei][newMask] = true;
-                        q.push({nei, newMask});
-                    }
+            for (int neighbor : graph[node]) {
+                int nextMask = mask | (1 << neighbor);
+                if (!visited[neighbor][nextMask]) {
+                    visited[neighbor][nextMask] = true;
+                    q.push({neighbor, nextMask, dist + 1});
                 }
             }
-
-            steps++;
         }
 
-        return -1;
+        return 0;
     }
 };
