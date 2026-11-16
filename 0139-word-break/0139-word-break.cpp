@@ -1,63 +1,72 @@
 class Solution {
-public:
-    struct Node{
-        unordered_map<char,Node*> info;
+    public:
+    class Node{
+        public:
         bool endOfWord;
+        unordered_map<char,Node*> children;
+        
         Node(){
             endOfWord=false;
         }
     };
     
-    struct Trie{
+    class Trie{
+        public:
         Node* root;
-        Trie() {
-        root=new Node();
+       
+        Trie(){
+            root=new Node();
         }
-        void insert(string word) {
-        Node* temp=root;
-        for(int i=0;i<word.length();i++){
-            if(temp->info.count(word[i])==0){
-                temp->info[word[i]]=new Node();
+        void insert(string key){
+            Node* temp =root;
+            for(int i=0;i<key.length();i++){
+                if(temp->children.count(key[i])==0){
+                    temp->children[key[i]]=new Node(); 
+                }
+                temp=temp->children[key[i]];       
             }
-            temp=temp->info[word[i]];
+            temp->endOfWord=true;
         }
-        temp->endOfWord=true;
-    }
-    bool search(string word) {
-        Node* temp = root;
-        for(int i=0;i<word.length();i++){
-            if(temp->info.count(word[i])){  
-                temp=temp->info[word[i]];    
-            }else{return false;}
+        bool search(string key){
+            Node* temp=root;
+            for(int i=0;i<key.length();i++){
+                if(temp->children.count(key[i])){
+                    temp=temp->children[key[i]];  
+                }else{
+                    return false;
+                }
+            }
+            return temp->endOfWord;
         }
-        return temp->endOfWord;
-    }
-};
+    };
     unordered_map<string, bool> memo;
+
+    
     bool wordBreak(string s, vector<string>& wordDict) {
         Trie trie;
         for(int i=0;i<wordDict.size();i++){
-            trie.insert(wordDict[i]); 
+            string curr=wordDict[i];
+            trie.insert(curr);
         }
-        return getAns(trie,s);
-
+        return helper(s,trie);
     }
 
-    bool getAns(Trie &trie,string s){
-        if(s.size()==0){
+    bool helper(string key , Trie &trie){
+        if(key.length()==0){
             return true;
         }
-        if(memo.count(s)){
-            return memo[s];
+        if (memo.count(key)) {
+            return memo[key];
         }
-        for(int i=0;i<s.length();i++){
-            string first=s.substr(0,i+1);
-            string second=s.substr(i+1);
-            if(trie.search(first) && getAns(trie,second)){
-                return memo[s]=true;
+        for (int i = 0; i < key.length(); i++) {
+            string first = key.substr(0, i + 1);
+            string sec = key.substr(i + 1);
+            if (trie.search(first) && helper(sec, trie)) {
+                return memo[key] = true;
             }
         }
-        return memo[s]=false;
+        
+        return memo[key] = false;
     }
 
 };
